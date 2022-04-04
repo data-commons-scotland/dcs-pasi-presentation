@@ -1,0 +1,12 @@
+= A presentation about the proof-of-concept for the Participatory Accounting of Social Impacts
+
+👁️ https://data-commons-scotland.github.io/dcs-pasi-presentation/[View] the generated web page.
+
+image::resources/img/pasi-dashboard-annotated.gif["An animated GIF of the PASI dashboard app", width=50%]
+
+=== Building a 'static' web page from the source
+
+[source]
+----
+make
+----
