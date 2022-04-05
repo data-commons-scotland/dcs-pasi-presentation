@@ -2,7 +2,7 @@
 
 👁️ https://data-commons-scotland.github.io/pasi-presentation/[View] the generated web page.
 
-image::resources/public/img/pasi-dashboard-app-annotated.gif["An animated GIF of the PASI dashboard app", width=50%]
+image::resources/public/img/pasi-dashboard-app-annotated.gif["An animated GIF of the PASI dashboard app", width=50%, link="https://data-commons-scotland.github.io/pasi-presentation/"]
 
 === Building the presentation (really an SPA) from the source
 
